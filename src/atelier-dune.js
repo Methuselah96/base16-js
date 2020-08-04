@@ -16,5 +16,5 @@ export default {
   base0C: '#1fad83',
   base0D: '#6684e1',
   base0E: '#b854d4',
-  base0F: '#d43552'
+  base0F: '#d43552',
 };

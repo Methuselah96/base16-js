@@ -25,14 +25,12 @@
   },
   "homepage": "https://github.com/gaearon/base16-js",
   "devDependencies": {
-    "babel-cli": "^6.1.2",
-    "babel-core": "^6.1.2",
-    "babel-eslint": "^4.1.4",
-    "babel-preset-es2015": "^6.1.2",
-    "babel-preset-stage-0": "^6.1.2",
-    "eslint": "^0.23",
-    "eslint-config-airbnb": "0.0.6",
-    "eslint-plugin-react": "^2.3.0",
-    "rimraf": "^2.4.3"
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "rimraf": "^3.0.2"
   }
 }
